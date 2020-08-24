@@ -1,3 +1,26 @@
+# TicTacToe-React.js
+This is a Tictactoe game developed with react using basic props and basic ecmascript 6+ syntax. this have been made it for teenagers and young people that want to understand how react work and learn about this Great framework.
+
+# Purpose
+
+This is a game full displayed using basic JSX, CSS, and a Lot javascript code, using React.js, Node.js, If conditionals and other features that Javascript lenguage offer.
+
+### Demo Comming soon.
+
+### Technologies used:
+- Javascript, CSS , HTML and Framework React.js and Node.js
+
+##### Cool Features:
+Simple Display to undestand what is happening in the game.
+Game developed for two players.
+Thematic based in Code Ninjas Franchise.
+Using swal alert to show smooth desplay when you whin.
+You dont need to reload to restart, inmediatly game finish it restart since swal alert.
+
+
+
+# Instructions to open and work this project with react.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
