@@ -7,7 +7,7 @@ This is a game full displayed using basic JSX, CSS, and a Lot javascript code, u
 
 ### Demo.
 
-https://media.giphy.com/media/fxBRptOECHPsrhu06g/giphy.gif
+![demo](https://media.giphy.com/media/fxBRptOECHPsrhu06g/giphy.gif)
 
 ### Technologies used:
 - Javascript, CSS , HTML and Framework React.js and Node.js
