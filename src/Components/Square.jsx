@@ -1,5 +1,4 @@
 import React from 'react';
-//import { NinjaBoy } from '../assets/NinjaBoy.png';
 
 function Square(props) {
     function renderImg() {
