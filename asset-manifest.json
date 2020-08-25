@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ticTacToe-CodeNinjas-Reactjs.github.io/static/css/main.c5482488.chunk.css",
+    "main.js": "/ticTacToe-CodeNinjas-Reactjs.github.io/static/js/main.9d1c9c5a.chunk.js",
+    "main.js.map": "/ticTacToe-CodeNinjas-Reactjs.github.io/static/js/main.9d1c9c5a.chunk.js.map",
+    "runtime-main.js": "/ticTacToe-CodeNinjas-Reactjs.github.io/static/js/runtime-main.8508be33.js",
+    "runtime-main.js.map": "/ticTacToe-CodeNinjas-Reactjs.github.io/static/js/runtime-main.8508be33.js.map",
+    "static/js/2.5ade933b.chunk.js": "/ticTacToe-CodeNinjas-Reactjs.github.io/static/js/2.5ade933b.chunk.js",
+    "static/js/2.5ade933b.chunk.js.map": "/ticTacToe-CodeNinjas-Reactjs.github.io/static/js/2.5ade933b.chunk.js.map",
+    "index.html": "/ticTacToe-CodeNinjas-Reactjs.github.io/index.html",
+    "precache-manifest.353701b66555b7219690af42c4892537.js": "/ticTacToe-CodeNinjas-Reactjs.github.io/precache-manifest.353701b66555b7219690af42c4892537.js",
+    "service-worker.js": "/ticTacToe-CodeNinjas-Reactjs.github.io/service-worker.js",
+    "static/css/main.c5482488.chunk.css.map": "/ticTacToe-CodeNinjas-Reactjs.github.io/static/css/main.c5482488.chunk.css.map",
+    "static/js/2.5ade933b.chunk.js.LICENSE.txt": "/ticTacToe-CodeNinjas-Reactjs.github.io/static/js/2.5ade933b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8508be33.js",
+    "static/js/2.5ade933b.chunk.js",
+    "static/css/main.c5482488.chunk.css",
+    "static/js/main.9d1c9c5a.chunk.js"
+  ]
+}
