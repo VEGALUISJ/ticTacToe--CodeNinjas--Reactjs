@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ticTacToe-CodeNinjas-Reactjs/static/css/main.44fac8b9.chunk.css",
+    "main.css": "/ticTacToe-CodeNinjas-Reactjs/static/css/main.d4ca153d.chunk.css",
     "main.js": "/ticTacToe-CodeNinjas-Reactjs/static/js/main.cfd5b0ed.chunk.js",
     "main.js.map": "/ticTacToe-CodeNinjas-Reactjs/static/js/main.cfd5b0ed.chunk.js.map",
     "runtime-main.js": "/ticTacToe-CodeNinjas-Reactjs/static/js/runtime-main.0f3fdf47.js",
@@ -8,15 +8,15 @@
     "static/js/2.5ade933b.chunk.js": "/ticTacToe-CodeNinjas-Reactjs/static/js/2.5ade933b.chunk.js",
     "static/js/2.5ade933b.chunk.js.map": "/ticTacToe-CodeNinjas-Reactjs/static/js/2.5ade933b.chunk.js.map",
     "index.html": "/ticTacToe-CodeNinjas-Reactjs/index.html",
-    "precache-manifest.d71df3885eb4241a9112eb081b7e0d69.js": "/ticTacToe-CodeNinjas-Reactjs/precache-manifest.d71df3885eb4241a9112eb081b7e0d69.js",
+    "precache-manifest.b210751b6aac008eaaa6708ffc3fcf4a.js": "/ticTacToe-CodeNinjas-Reactjs/precache-manifest.b210751b6aac008eaaa6708ffc3fcf4a.js",
     "service-worker.js": "/ticTacToe-CodeNinjas-Reactjs/service-worker.js",
-    "static/css/main.44fac8b9.chunk.css.map": "/ticTacToe-CodeNinjas-Reactjs/static/css/main.44fac8b9.chunk.css.map",
+    "static/css/main.d4ca153d.chunk.css.map": "/ticTacToe-CodeNinjas-Reactjs/static/css/main.d4ca153d.chunk.css.map",
     "static/js/2.5ade933b.chunk.js.LICENSE.txt": "/ticTacToe-CodeNinjas-Reactjs/static/js/2.5ade933b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0f3fdf47.js",
     "static/js/2.5ade933b.chunk.js",
-    "static/css/main.44fac8b9.chunk.css",
+    "static/css/main.d4ca153d.chunk.css",
     "static/js/main.cfd5b0ed.chunk.js"
   ]
 }
