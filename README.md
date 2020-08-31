@@ -5,7 +5,7 @@ This is a Tictactoe game developed with react using basic props and basic ecmasc
 
 This is a game full displayed using basic JSX, CSS, and a Lot javascript code, using React.js, Node.js, If conditionals and other features that Javascript lenguage offer.
 
-### Demo.
+### Demo:
 
 ![demo](https://media.giphy.com/media/fxBRptOECHPsrhu06g/giphy.gif)
 
