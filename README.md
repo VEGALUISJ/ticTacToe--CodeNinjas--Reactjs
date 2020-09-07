@@ -1,5 +1,5 @@
 # TicTacToe-React.js
-This is a Tictactoe game developed with react using basic props and basic ecmascript 6+ syntax. this have been made it for teenagers and young people that want to understand how react work and learn about this Great framework.
+This is a Tictactoe game developed with react using basic props and basic ecmascript 6+ syntax. this have been made it for teenagers and young people that want to understand how react work and learn about this Great framework:
 
 # Purpose
 
